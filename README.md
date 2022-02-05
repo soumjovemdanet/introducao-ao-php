@@ -15,3 +15,7 @@ Extensão do arquivo: .php.php3.php4.php5.php7.phps.phtml
 
 
 Estilo de tipagem: dinâmica; fraca; gradual (desde a versão 7.0)
+
+# Deixe sua doação
+
+DGB: dgb1q5amjl97wta2avarpntlkc4kw6x8djkwut0ds2j

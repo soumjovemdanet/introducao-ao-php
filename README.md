@@ -1,2 +1,11 @@
-# introdu-o-ao-php
-HP é uma linguagem poderosa e um interpretador, seja incluído em um servidor web como um módulo ou executado separadamente como binário CGI, é possível acessar arquivos, executar comandos e abrir conexões de rede no servidor. Essas propriedades fazem qualquer coisa executando em um servidor web inseguras por padrão. PHP é desenhado especificamente para ser uma linguagem mais segura para escrever programas CGI que Perl ou C, e com a escolha correta de opções de configuração em tempo compilação ou de execução, e práticas corretas de programação, ela pode dar a combinação exata de liberdade e segurança que você precisa.  Como existem diferentes maneiras de utilizar o PHP, existem várias opções de configuração controlando seu comportamento. Um grande leque de opções garante que você pode usar o PHP para vários propósitos, mas também significa que existem combinações dessas opções e configurações do servidor que resultam em uma instalação insegura.  A flexibilidade de configuração do PHP é comparável com a flexibilidade de código. PHP pode ser usado para montar um servidor de aplicações completo, com todo o poder de um usuário shell, ou pode ser usado para inclusão simples de arquivos no lado do servidor com pouco risco em um ambiente bem controlado. Como montar o ambiente, e o quão seguro ele é, depende muito do desenvolvedor.  Esse capítulo começa com alguns conselhos genéricos de segurança, explica as diferentes combinações de opções de configuração e as situações nas quais elas podem ser usadas com segurança e descreve diferentes considerações quanto ao desenvolvimento para diferentes níveis de segurança.
+# introdução ao php 
+
+# PHP Linguagem de programação
+
+PHP é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor, capazes de gerar conteúdo dinâmico na World Wide Web
+
+Criado Por: Rasmus Lerdorf
+Última versão: 8.1.0 (25 de novembro de 2021; há 2 meses)
+Paradigma: procedural; reflexiva; orientada a objetos; funcional
+Extensão do arquivo: .php.php3.php4.php5.php7.phps.phtml
+Estilo de tipagem: dinâmica; fraca; gradual (desde a versão 7.0)

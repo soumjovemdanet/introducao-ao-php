@@ -18,10 +18,6 @@ Estilo de tipagem: dinâmica; fraca; gradual (desde a versão 7.0)
 
 # Deixe sua doação
 
-DGB: dgb1q5amjl97wta2avarpntlkc4kw6x8djkwut0ds2j
-
-# Deixe sua doação
-
 DigiByte: dgb1q5amjl97wta2avarpntlkc4kw6x8djkwut0ds2j
 
 BTC: 1Fi2Du2HuF8bHFqmwRq3yYG17GHNa3wkWu
